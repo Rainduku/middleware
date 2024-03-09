@@ -30,6 +30,4 @@ Soal 4: Implementasikan Logging server pada aplikasi yang teman-teman buat
 13, pakai swagger nyaaaa
 ![image](https://github.com/zcdanny/Homework9_Rakamin_Restfull_API_Middleware/assets/100658079/2ff9342d-de92-4db6-9117-6c09b504782f)
 
-![image](https://github.com/zcdanny/Homework9_Rakamin_Restfull_API_Middleware/assets/100658079/d45cb71a-fe2f-4979-b768-36b4a762613e)
-
 upload ke repo masing-masing ya
